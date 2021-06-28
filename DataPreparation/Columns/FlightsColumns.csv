@@ -1,0 +1,11 @@
+fl_date,mkt_unique_carrier,branded_code_share,mkt_carrier,mkt_carrier_fl_num,op_unique_carrier,tail_num,op_carrier_fl_num,origin_airport_id,origin,origin_city_name,dest_airport_id,dest,dest_city_name,crs_dep_time,dep_time,dep_delay,taxi_out,wheels_off,wheels_on,taxi_in,crs_arr_time,arr_time,arr_delay,cancelled,cancellation_code,diverted,dup,crs_elapsed_time,actual_elapsed_time,air_time,flights,distance,carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay,first_dep_time,total_add_gtime,longest_add_gtime,no_name
+2018-02-24,AA,AA,AA,1594,AA,N881NN,1594,13204,MCO,"Orlando, FL",11278,DCA,"Washington, DC",1644,1636,-8,13,1649,1833,5,1900,1838,-22,0,,0,N,136,122,104,1,759,,,,,,,,,
+2018-02-24,AA,AA,AA,1595,AA,N856NN,1595,10423,AUS,"Austin, TX",11298,DFW,"Dallas/Fort Worth, TX",630,713,43,43,756,839,16,737,855,78,0,,0,N,67,102,43,1,190,43,0,35,0,0,,,,
+2018-02-24,AA,AA,AA,1596,AA,N923NN,1596,14100,PHL,"Philadelphia, PA",14492,RDU,"Raleigh/Durham, NC",1825,1814,-11,28,1842,1939,3,2001,1942,-19,0,,0,N,96,88,57,1,337,,,,,,,,,
+2018-02-24,AA,AA,AA,1597,AA,N857NN,1597,11298,DFW,"Dallas/Fort Worth, TX",14869,SLC,"Salt Lake City, UT",1105,1204,59,42,1246,1416,3,1302,1419,77,0,,0,N,177,195,150,1,989,0,59,18,0,0,,,,
+2018-02-24,AA,AA,AA,1597,AA,N838NN,1597,13495,MSY,"New Orleans, LA",11298,DFW,"Dallas/Fort Worth, TX",800,902,62,15,917,1049,8,953,1057,64,0,,0,N,113,115,92,1,447,0,62,2,0,0,,,,
+2018-02-24,AA,AA,AA,1598,AA,N315PE,1598,11618,EWR,"Newark, NJ",13930,ORD,"Chicago, IL",1735,1719,-16,14,1733,1849,29,1929,1918,-11,0,,0,N,174,179,136,1,719,,,,,,,,,
+2018-02-24,AA,AA,AA,1598,AA,N315PE,1598,14107,PHX,"Phoenix, AZ",11618,EWR,"Newark, NJ",948,946,-2,18,1004,1551,8,1640,1559,-41,0,,0,N,292,253,227,1,2133,,,,,,,,,
+2018-02-24,AA,AA,AA,1599,AA,N951NN,1599,11298,DFW,"Dallas/Fort Worth, TX",14908,SNA,"Santa Ana, CA",1234,1332,58,17,1349,1455,9,1355,1504,69,0,,0,N,201,212,186,1,1205,0,42,11,0,16,,,,
+2018-02-24,AA,AA,AA,1599,AA,N951NN,1599,14908,SNA,"Santa Ana, CA",11298,DFW,"Dallas/Fort Worth, TX",1440,1531,51,26,1557,2014,11,1941,2025,44,0,,0,N,181,174,137,1,1205,0,0,0,0,44,,,,
+2018-02-24,AA,AA,AA,1602,AA,N992NN,1602,11278,DCA,"Washington, DC",11298,DFW,"Dallas/Fort Worth, TX",1245,1240,-5,14,1254,1537,5,1519,1542,23,0,,0,N,214,242,223,1,1192,0,0,23,0,0,,,,
